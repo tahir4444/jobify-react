@@ -1,9 +1,9 @@
 # Frontend
-frontend/node_modules
-frontend/build
-frontend/.env.local
-frontend/.cache
-frontend/yarn-error.log
+client/node_modules
+client/build
+client/.env.local
+client/.cache
+client/yarn-error.log
 
 # Backend
 backend/node_modules
